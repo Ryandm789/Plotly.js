@@ -5,4 +5,4 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 ## Results
 <img src="Resources/Belly_Button_Charts.png">
-<B><li> Belly Button Charts </li></B>
+<B><li> Belly_Button_Charts </li></B>
